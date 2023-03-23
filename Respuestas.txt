@@ -1,0 +1,11 @@
+Apartado f) 
+● ¿Puede ver el archivo tp2_1_2.c? ¿Por qué?
+Al cambiar de branch, el archivo ya no se ve en el explorador. 
+
+● Vuelva a ejecutar el comando gitk --all ¿Qué diferencias nota?
+Se agregó una línea más, arriba de Opcion_2, llamada main. O más bien, se desplazó de su posición anterior hacia arriba. 
+
+(Luego de hacer el merge)
+● Luego utilice el comando gitk –all para ver los cambios, ¿Qué nota?
+La rama main y Opcion_2 se unieron con una línea. 
+
